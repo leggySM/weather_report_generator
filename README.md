@@ -22,7 +22,7 @@ Failed requests (no internet, timeouts, bad responses) and email login problems 
    ```
    pip install requests fpdf2
    ```
-2. Copy `config.example.py` to `config.py` and fill in your details:
+2. Copy `config_example.py` to `config.py` and fill in your details:
    ```python
    EMAIL = "you@gmail.com"
    appPassword = "your-16-character-app-password"
